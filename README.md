@@ -1,3 +1,6 @@
+# OOS example using terraform
+[![Project Sandbox](https://docs.outscale.com/fr/userguide/_images/Project-Sandbox-yellow.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
+
 This repository shows how to use [terraform](https://www.terraform.io/) AWS's S3 provider with Outscale Object Storage (OOS).
 
 Beeing able to use a non-AWS S3 service with official AWS S3 provider is still [work in progress](https://github.com/hashicorp/terraform-provider-aws/issues/13726) so we will need to use a patched version of official AWS provider.
