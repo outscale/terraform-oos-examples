@@ -1,5 +1,5 @@
 # OOS example using terraform
-[![Project Sandbox](https://docs.outscale.com/fr/userguide/_images/Project-Sandbox-yellow.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
+[![Project Archived](https://docs.outscale.com/fr/userguide/_images/Project-Archived-red.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
 
 This repository shows how to use [terraform](https://www.terraform.io/) AWS's S3 provider with Outscale Object Storage (OOS).
 
